@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./rosacearummonog01tratgoog_0470.png"; bbox 0 0 2574 3890; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 262 893 846 1030">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 262 893 846 1030">
+     <span class='ocr_line' id='line_1_1' title="bbox 262 893 846 1030; baseline -0.005 -42"><span class='ocrx_word' id='word_1_1' title='bbox 262 894 614 1030; x_wconf 69' lang='lat' dir='ltr'>sssms</span> <span class='ocrx_word' id='word_1_2' title='bbox 666 893 846 990; x_wconf 77' lang='lat' dir='ltr'><strong>xxw.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 462 1123 655 1144">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 462 1123 655 1144">
+     <span class='ocr_line' id='line_1_2' title="bbox 462 1123 655 1144; baseline -0.021 0"><span class='ocrx_word' id='word_1_3' title='bbox 462 1123 655 1144; x_wconf 54' lang='lat' dir='ltr'><em>m</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 151 1325 968 1483">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 151 1317 968 1483">
+     <span class='ocr_line' id='line_1_3' title="bbox 151 1325 968 1483; baseline 0.004 -51"><span class='ocrx_word' id='word_1_4' title='bbox 151 1325 968 1483; x_wconf 59' lang='grc' dir='ltr'><strong>ΡΑιιΑειΑΝΑ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 70 1777 999 1874">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 70 1777 999 1874">
+     <span class='ocr_line' id='line_1_4' title="bbox 70 1777 999 1874; baseline -0.003 -29"><span class='ocrx_word' id='word_1_5' title='bbox 70 1777 170 1874; x_wconf 71' lang='grc' dir='ltr'><strong>1ῗοίἰῆΙ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 188 1778 364 1863; x_wconf 83' lang='lat' dir='ltr'><strong>simplicia.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 393 1777 505 1843; x_wconf 83' lang='lat' dir='ltr'><strong>Petala</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 525 1777 877 1864; x_wconf 81' lang='lat' dir='ltr'><strong>nectarostigmatibus</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 899 1779 999 1864; x_wconf 80' lang='lat' dir='ltr'>picta.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 176 1967 638 2043">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 176 1967 638 2043">
+     <span class='ocr_line' id='line_1_5' title="bbox 176 1967 638 2043; baseline -0.006 -20"><span class='ocrx_word' id='word_1_10' title='bbox 176 1969 306 2043; x_wconf 78' lang='lat' dir='ltr'><strong>Species:</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 327 1971 357 2024; x_wconf 79' lang='lat' dir='ltr'><strong>fl.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 372 1967 553 2031; x_wconf 75' lang='lat' dir='ltr'>berberifolia.</span> <span class='ocrx_word' id='word_1_13' title='bbox 572 1967 638 2023; x_wconf 69' lang='lat' dir='ltr'><strong>Pan.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1292 3890">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1292 3890">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1292 3890; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1292 3890; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
